@@ -1,4 +1,4 @@
-This folder contains two datasets: 
+This folder contains an analysis Jupyter notebook and a report on findings (for a potential space agency) based on two datesets: 
 astronauts.csv contains data about astronauts and their missions
 missions.csv contains some further data about the missions and the rockets involved
 
